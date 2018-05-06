@@ -1,0 +1,2103 @@
+{
+  "name": "ggku4dell1065.ggktech.local",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "default": {
+    "iis": {
+      "home": "C:\\Windows\\System32\\inetsrv",
+      "conf_dir": "C:\\Windows\\System32\\inetsrv\\config",
+      "pubroot": "C:\\inetpub",
+      "docroot": "C:\\inetpub\\wwwroot",
+      "log_dir": "C:\\inetpub\\logs\\LogFiles",
+      "cache_dir": "C:\\inetpub\\temp",
+      "components": [
+
+      ],
+      "source": null,
+      "recycle": {
+        "log_events": "Time, Requests, Schedule, Memory, IsapiUnhealthy, OnDemand, ConfigChange, PrivateMemory"
+      }
+    }
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "198",
+        "model": "",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 142 Stepping 9",
+        "mhz": "2901",
+        "cache_size": "512 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 160536981,
+        "kb_available": 61112717,
+        "kb_used": 99424264,
+        "percent_used": 61,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 94996787,
+        "kb_available": 94890262,
+        "kb_used": 106525,
+        "percent_used": 0,
+        "mount": "D:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "16299",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 10 Pro",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "GGKU4DELL1065",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "5893564",
+        "free_space_in_paging_files": "2353448",
+        "free_virtual_memory": "4986148",
+        "install_date": "20180131183434.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20180505074451.491179+330",
+        "local_date_time": "20180506181717.961000+330",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "137438953344",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 10 Pro|C:\\Windows|\\Device\\Harddisk0\\Partition2",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 256,
+        "number_of_users": 11,
+        "operating_system_sku": 48,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "portable_operating_system": false,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Windows User",
+        "serial_number": "00331-10000-00001-AA821",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "2490368",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume2",
+        "system_directory": "C:\\Windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "18889848",
+        "total_visible_memory_size": "16399480",
+        "version": "10.0.16299",
+        "windows_directory": "C:\\Windows"
+      },
+      "name": "Microsoft Windows 10 Pro",
+      "release": "10.0.16299",
+      "version": "10.0.16299  Build 16299",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "boot_status": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bootup_state": "Normal boot",
+        "caption": "GGKU4DELL1065",
+        "chassis_bootup_state": 3,
+        "chassis_sku_number": "Notebook",
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "ggku4dell1065",
+        "domain": "ggktech.local",
+        "domain_role": 1,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "hypervisor_present": true,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Dell Inc.",
+        "model": "Latitude 5580",
+        "name": "GGKU4DELL1065",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Dell System",
+          "1[07A8]",
+          "3[1.0]",
+          "12[www.dell.com]",
+          "14[1]",
+          "15[0]"
+        ],
+        "part_of_domain": true,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "pc_system_type_ex": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Windows User",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "SQLServer",
+          "NT"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_family": "Latitude",
+        "system_sku_number": "07A8",
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "16793067520",
+        "user_name": "GGKTECH\\hiteshwara.sharma",
+        "wake_up_type": 6,
+        "workgroup": null
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "2490368kB",
+        "free": "2353448kB"
+      },
+      "total": "16399480kB",
+      "free": "5893676kB"
+    },
+    "network": {
+      "interfaces": {
+        "0x14": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000002] Intel(R) Dual Band Wireless-AC 8265",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.0.1"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) Dual Band Wireless-AC 8265",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "19700102174407.000000+330",
+            "dhcp_lease_obtained": "19700102154407.000000+330",
+            "dhcp_server": "192.168.0.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": [
+              "192.168.0.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 2,
+            "interface_index": 20,
+            "ip_address": [
+              "192.168.0.104",
+              "fe80::5c32:c16e:e7d9:3cd0"
+            ],
+            "ip_connection_metric": 50,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:28:F8:94:7B:4A",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "Netwtw04",
+            "setting_id": "{CD8FC922-43C8-4BFD-96FF-6D900A2DECD8}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000002] Intel(R) Dual Band Wireless-AC 8265",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Dual Band Wireless-AC 8265",
+            "device_id": "2",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{CD8FC922-43C8-4BFD-96FF-6D900A2DECD8}",
+            "index": 2,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 20,
+            "last_error_code": null,
+            "mac_address": "00:28:F8:94:7B:4A",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Dual Band Wireless-AC 8265",
+            "net_connection_id": "Wi-Fi",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_24FD&SUBSYS_00508086&REV_78\\0028F8FFFF947B4A00",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Dual Band Wireless-AC 8265",
+            "service_name": "Netwtw04",
+            "speed": "150000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.0.104": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.0.255",
+              "family": "inet"
+            },
+            "fe80::5c32:c16e:e7d9:3cd0": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:28:F8:94:7B:4A": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.0.1": "30:b5:c2:73:49:ea",
+            "192.168.0.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.77.124.213": "01:00:5e:4d:7c:d5",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xa": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000004] Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "10.148.192.1",
+              "::"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": "gsm1900.org",
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": [
+              "10.130.32.52",
+              "10.14.6.85"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              1,
+              1
+            ],
+            "igmp_level": null,
+            "index": 4,
+            "interface_index": 10,
+            "ip_address": [
+              "10.148.194.250",
+              "fe80::764b:8f6b:c9ad:85a5",
+              "fe80::1852:ab50:843f:7108"
+            ],
+            "ip_connection_metric": 1,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.240.0",
+              "64",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:05:9A:3C:7A:00",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "vpnva",
+            "setting_id": "{5C9B2747-C8DC-4C06-9A40-0483DA275210}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": "10.14.1.228",
+            "wins_scope_id": "",
+            "wins_secondary_server": "10.154.46.11"
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000004] Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "device_id": "4",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{5C9B2747-C8DC-4C06-9A40-0483DA275210}",
+            "index": 4,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 10,
+            "last_error_code": null,
+            "mac_address": "00:05:9A:3C:7A:00",
+            "manufacturer": "Cisco Systems",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "net_connection_id": "Ethernet 2",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64",
+            "service_name": "vpnva",
+            "speed": "149250000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.148.194.250": {
+              "prefixlen": "20",
+              "netmask": "255.255.240.0",
+              "broadcast": "10.148.207.255",
+              "family": "inet"
+            },
+            "fe80::764b:8f6b:c9ad:85a5": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "fe80::1852:ab50:843f:7108": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:05:9A:3C:7A:00": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.148.192.1": "00:11:22:33:44:55",
+            "10.148.207.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x6": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000017] Hyper-V Virtual Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": "255.255.255.255",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": false,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 17,
+            "interface_index": 6,
+            "ip_address": [
+              "192.168.200.65",
+              "fe80::60ad:e137:7bce:5aa5"
+            ],
+            "ip_connection_metric": 15,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.240",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "32:15:BD:B2:3E:86",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMSMP",
+            "setting_id": "{333C3B72-E629-4185-9325-B012B8926CEA}",
+            "tcpip_netbios_options": 2,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000017] Hyper-V Virtual Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "device_id": "17",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{333C3B72-E629-4185-9325-B012B8926CEA}",
+            "index": 17,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 6,
+            "last_error_code": null,
+            "mac_address": "32:15:BD:B2:3E:86",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Hyper-V Virtual Ethernet Adapter",
+            "net_connection_id": "vEthernet (Default Switch)",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMS_MP\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Hyper-V Virtual Ethernet Adapter",
+            "service_name": "VMSMP",
+            "speed": "10000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.200.65": {
+              "prefixlen": "28",
+              "netmask": "255.255.255.240",
+              "broadcast": "192.168.200.79",
+              "family": "inet"
+            },
+            "fe80::60ad:e137:7bce:5aa5": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "32:15:BD:B2:3E:86": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x19": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000019] Hyper-V Virtual Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Hyper-V Virtual Ethernet Adapter #2",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 19,
+            "interface_index": 25,
+            "ip_address": [
+              "10.0.75.1",
+              "fe80::345c:f044:7f3e:41b7"
+            ],
+            "ip_connection_metric": 15,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:15:5D:C8:41:01",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMSMP",
+            "setting_id": "{FA5F7475-C1B7-4BEC-8E34-BC968DFF3BB2}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000019] Hyper-V Virtual Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "device_id": "19",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{FA5F7475-C1B7-4BEC-8E34-BC968DFF3BB2}",
+            "index": 19,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 25,
+            "last_error_code": null,
+            "mac_address": "00:15:5D:C8:41:01",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Hyper-V Virtual Ethernet Adapter #2",
+            "net_connection_id": "vEthernet (DockerNAT)",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMS_MP\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Hyper-V Virtual Ethernet Adapter",
+            "service_name": "VMSMP",
+            "speed": "10000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.0.75.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "10.0.75.255",
+              "family": "inet"
+            },
+            "fe80::345c:f044:7f3e:41b7": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:15:5D:C8:41:01": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.0.75.2": "00:15:5d:c8:41:02",
+            "10.0.75.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.77.124.213": "01:00:5e:4d:7c:d5",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x3": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000021] Hyper-V Virtual Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Hyper-V Virtual Ethernet Adapter #3",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": "255.255.255.255",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 21,
+            "interface_index": 3,
+            "ip_address": [
+              "172.18.48.1",
+              "fe80::58c4:72ca:cc4e:7ed4"
+            ],
+            "ip_connection_metric": 15,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.240.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:15:5D:B6:59:D1",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMSMP",
+            "setting_id": "{0A3D831A-1650-4475-958F-A9559CE89344}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000021] Hyper-V Virtual Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Hyper-V Virtual Ethernet Adapter",
+            "device_id": "21",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{0A3D831A-1650-4475-958F-A9559CE89344}",
+            "index": 21,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 3,
+            "last_error_code": null,
+            "mac_address": "00:15:5D:B6:59:D1",
+            "manufacturer": "Microsoft",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Hyper-V Virtual Ethernet Adapter #3",
+            "net_connection_id": "vEthernet (nat)",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMS_MP\\0002",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Hyper-V Virtual Ethernet Adapter",
+            "service_name": "VMSMP",
+            "speed": "10000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "172.18.48.1": {
+              "prefixlen": "20",
+              "netmask": "255.255.240.0",
+              "broadcast": "172.18.63.255",
+              "family": "inet"
+            },
+            "fe80::58c4:72ca:cc4e:7ed4": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:15:5D:B6:59:D1": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "172.18.63.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.77.124.213": "01:00:5e:4d:7c:d5",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0xc": {
+          "configuration": {
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000023] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "gsm1900.org",
+              "ggktech.local"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "ggku4dell1065",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 23,
+            "interface_index": 12,
+            "ip_address": [
+              "192.168.56.1",
+              "fe80::a970:439:d128:e2ee"
+            ],
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:0C",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{642B03C0-219D-4122-839A-346DE47198BF}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000023] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "23",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{642B03C0-219D-4122-839A-346DE47198BF}",
+            "index": 23,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 12,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:0C",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "GGKU4DELL1065",
+            "time_of_last_reset": "20180505074451.491179+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.56.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.56.255",
+              "family": "inet"
+            },
+            "fe80::a970:439:d128:e2ee": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:0C": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.56.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.77.124.213": "01:00:5e:4d:7c:d5"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "10.148.192.1",
+      "default_interface": "0xa"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "10.148.194.250",
+    "macaddress": "00:05:9A:3C:7A:00",
+    "ip6address": "fe80::1852:ab50:843f:7108",
+    "os": "windows",
+    "os_version": "10.0.16299",
+    "platform": "windows",
+    "platform_version": "10.0.16299",
+    "platform_family": "windows",
+    "uptime_seconds": 124348,
+    "uptime": "1 day 10 hours 32 minutes 28 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_161",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_161-b12"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) 64-Bit Server VM",
+          "build": "25.161-b12, mixed mode"
+        }
+      },
+      "nodejs": {
+        "version": "8.10.0"
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "5.1.16299.251",
+        "ws_man_stack_version": "3.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "4.0.30319.42000",
+        "build_version": "10.0.16299.251",
+        "compatible_versions": [
+          "1.0",
+          "2.0",
+          "3.0",
+          "4.0",
+          "5.0",
+          "5.1.16299.251"
+        ],
+        "remoting_protocol_version": "2.3"
+      },
+      "python": {
+        "version": "3.6.4",
+        "builddate": "Dec 19 2017, 06:04:45"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.1.8",
+        "release_date": "2015-12-16",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.1.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.12.15",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.1.0/gems/chef-12.12.15-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.17.1",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.1.0/gems/ohai-8.17.1/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "ggku4dell1065",
+    "machinename": "GGKU4DELL1065",
+    "fqdn": "ggku4dell1065.ggktech.local",
+    "domain": "ggktech.local",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1525610856.0949419,
+    "packages": {
+      "7-Zip 18.01 (x64)": {
+        "version": "18.01",
+        "publisher": "Igor Pavlov"
+      },
+      "Apache Tomcat 8.5 Tomcat8 (remove only)": {
+        "version": "8.5.27",
+        "publisher": "The Apache Software Foundation"
+      },
+      "Docker for Windows": {
+        "version": "18.03.1-ce-win65",
+        "publisher": "Docker Inc."
+      },
+      "Git version 2.17.0": {
+        "version": "2.17.0",
+        "publisher": "The Git Development Community",
+        "installdate": "20180403"
+      },
+      "Microsoft SQL Server 2017 (64-bit)": {
+        "publisher": "Microsoft Corporation"
+      },
+      "Mozilla Firefox 59.0.3 (x64 en-US)": {
+        "version": "59.0.3",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "59.0.2",
+        "publisher": "Mozilla"
+      },
+      "Notepad++ (64-bit x64)": {
+        "version": "7.5.6",
+        "publisher": "Notepad++ Team"
+      },
+      "OpenSSL 1.1.0h (64-bit)": {
+        "publisher": "OpenSSL Win64 Installer Team",
+        "installdate": "20180406"
+      },
+      "Skype for Business Basic 2016 - en-us": {
+        "version": "16.0.9226.2114",
+        "publisher": "Microsoft Corporation"
+      },
+      "Vulkan Run Time Libraries 1.0.54.1": {
+        "version": "1.0.54.1",
+        "publisher": "Intel Corporation Inc."
+      },
+      "SQL Server 2017 Client Tools Extensions": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Analysis Services OLE DB Provider": {
+        "version": "14.0.1000.397",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Database Engine Shared": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Shared Management Objects": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 XEvent": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server Management Studio": {
+        "version": "14.0.17230.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft VSS Writer for SQL Server 2017": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "McAfee Endpoint Security Firewall": {
+        "version": "10.5.3",
+        "publisher": "McAfee, LLC.",
+        "installdate": "20180215"
+      },
+      "Java 8 Update 161 (64-bit)": {
+        "version": "8.0.1610.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180208"
+      },
+      "Microsoft SQL Server 2017 T-SQL Language Service ": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Database Engine Services": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Batch Parser": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft ASP.NET Core 2.0.6 Runtime Package Store (x64)": {
+        "version": "2.0.12620.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Maxx Audio Installer (x64)": {
+        "version": "2.7.9259.0",
+        "publisher": "Waves Audio Ltd.",
+        "installdate": "20180208"
+      },
+      "SSMS Post Install Tasks": {
+        "version": "14.0.17230.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "IIS URL Rewrite Module 2": {
+        "version": "7.2.1980",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180405"
+      },
+      "Microsoft SQL Server 2017 Setup (English)": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "PuTTY release 0.70 (64-bit)": {
+        "version": "0.70.0.0",
+        "publisher": "Simon Tatham",
+        "installdate": "20180214"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (amd64)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180303"
+      },
+      "Microsoft SQL Server 2012 Native Client ": {
+        "version": "11.3.6540.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Web Platform Installer 5.0": {
+        "version": "5.0.50430.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180405"
+      },
+      "Active Directory Authentication Library for SQL Server": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "McAfee Endpoint Security Threat Prevention": {
+        "version": "10.5.3",
+        "publisher": "McAfee, LLC.",
+        "installdate": "20180215"
+      },
+      "Microsoft ASP.NET Core Module": {
+        "version": "1.0.1990",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180131"
+      },
+      "Java SE Development Kit 8 Update 161 (64-bit)": {
+        "version": "8.0.1610.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180208"
+      },
+      "SQL Server 2017 Integration Services Scale Out Management Portal": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "McAfee Endpoint Security Platform": {
+        "version": "10.5.3",
+        "publisher": "McAfee, LLC.",
+        "installdate": "20180424"
+      },
+      "Microsoft SQL Server 2017 RsFx Driver": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft ODBC Driver 13 for SQL Server": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "McAfee Agent": {
+        "version": "5.0.6.220",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20180131"
+      },
+      "Visual Studio 2015 Prerequisites - ENU Language Pack": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Connection Info": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Shared Management Objects Extensions": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft .NET Core Host - 2.0.6 (x64)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Microsoft Build Tools 14.0 (amd64)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180303"
+      },
+      "Microsoft Lync Web App Plug-in (64-bit)": {
+        "version": "15.8.8308.965",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180417"
+      },
+      "Office 16 Click-to-Run Licensing Component": {
+        "version": "16.0.9226.2114",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180501"
+      },
+      "Office 16 Click-to-Run Extensibility Component 64-bit Registration": {
+        "version": "16.0.9226.2114",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180501"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 Common Files": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft System CLR Types for SQL Server 2017": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Dell Touchpad": {
+        "version": "10.2207.101.119",
+        "publisher": "ALPS ELECTRIC CO., LTD."
+      },
+      "Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23506": {
+        "version": "14.0.23506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Node.js": {
+        "version": "8.10.0",
+        "publisher": "Node.js Foundation",
+        "installdate": "20180322"
+      },
+      "Splunk Enterprise": {
+        "version": "7.0.2.0",
+        "publisher": "Splunk, Inc.",
+        "installdate": "20180227"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "McAfee Endpoint Security Web Control": {
+        "version": "10.5.3",
+        "publisher": "McAfee, LLC.",
+        "installdate": "20180215"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support": {
+        "version": "14.0.23829",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.6 (x64)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23506": {
+        "version": "14.0.23506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.23026": {
+        "version": "14.0.23026",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 DMF": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Lync Web App Plug-in": {
+        "version": "15.8.8308.965",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180222"
+      },
+      "Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server Management Studio for Analysis Services": {
+        "version": "14.0.17230.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft .NET Core Runtime - 2.0.6 (x64)": {
+        "version": "2.0.6.26212",
+        "publisher": "Microsoft Corporation"
+      },
+      "Oracle VM VirtualBox 5.2.10": {
+        "version": "5.2.10",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180501"
+      },
+      "Visual Studio 2015 Prerequisites": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SQL Server 2017 SQL Diagnostics": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio Code": {
+        "version": "1.22.2",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180416"
+      },
+      "SQL Server Management Studio for Reporting Services": {
+        "version": "14.0.17230.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "SoapUI 5.4.0 5.4.0": {
+        "version": "5.4.0",
+        "publisher": "SmartBear Software"
+      },
+      "Adobe Flash Player 29 NPAPI": {
+        "version": "29.0.0.140",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Cisco AnyConnect Secure Mobility Client ": {
+        "version": "4.5.00058",
+        "publisher": "Cisco Systems, Inc."
+      },
+      "Google Chrome": {
+        "version": "66.0.3359.139",
+        "publisher": "Google Inc.",
+        "installdate": "20180420"
+      },
+      "IntelliJ IDEA Community Edition 2017.3.4": {
+        "version": "173.4548.28",
+        "publisher": "JetBrains s.r.o."
+      },
+      "Microsoft Help Viewer 2.2": {
+        "version": "2.2.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft SQL Server 2017": {
+        "publisher": "Microsoft Corporation"
+      },
+      "VLC media player": {
+        "version": "3.0.1",
+        "publisher": "VideoLAN"
+      },
+      "WinSCP 5.13.1": {
+        "version": "5.13.1",
+        "publisher": "Martin Prikryl",
+        "installdate": "20180429"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 Language Support - ENU Language Pack": {
+        "version": "14.0.23107.20",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio 2015 XAML Designer": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 x86 Hosting Support": {
+        "version": "14.0.23829",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      " Tools for .Net 3.5": {
+        "version": "3.11.50727",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft .NET Framework 4.5.1 SDK": {
+        "version": "4.5.51641",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "GoTo Opener": {
+        "version": "1.0.473",
+        "publisher": "LogMeIn, Inc.",
+        "installdate": "20180228"
+      },
+      "Python 3.6.4 Tcl/Tk Support (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Realtek Audio COM Components": {
+        "version": "1.0.2",
+        "publisher": "Realtek Semiconductor Corp.",
+        "installdate": "20180208"
+      },
+      "Microsoft SQL Server 2017 Policies ": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Java 8 Update 161": {
+        "version": "8.0.1610.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180326"
+      },
+      "Microsoft .NET Core Host FX Resolver - 2.0.6 (x86)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Microsoft SQL Server 2014 Management Objects ": {
+        "version": "12.0.2000.8",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Python 3.6.4 Standard Library (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)": {
+        "version": "4.5.51209",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Update for Microsoft Visual Studio 2015 (KB3095681)": {
+        "version": "14.0.23317",
+        "publisher": "Microsoft Corporation"
+      },
+      "Skype™ 7.41": {
+        "version": "7.41.101",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20180409"
+      },
+      "Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.23026": {
+        "version": "14.0.23026",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23506": {
+        "version": "14.0.23506.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio 2015 Shell (Isolated) Resources": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Python 3.6.4 Executables (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.161.12",
+        "publisher": "Oracle Corporation",
+        "installdate": "20180208"
+      },
+      "Microsoft .NET Core Runtime - 2.0.6 (x86)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Python 3.6.4 pip Bootstrap (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft .NET Framework 4.5 Multi-Targeting Pack": {
+        "version": "4.5.50710",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "VIP Access": {
+        "version": "2.2.4.44",
+        "publisher": "Symantec Corporation",
+        "installdate": "20180131"
+      },
+      "Roslyn Language Services - x86": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Realtek Card Reader": {
+        "version": "10.0.14393.21292",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Google Update Helper": {
+        "version": "1.3.33.7",
+        "publisher": "Google Inc.",
+        "installdate": "20180420"
+      },
+      "GlobalMeet Softphone for WebEx": {
+        "version": "1.8.0.0",
+        "publisher": "PGi",
+        "installdate": "20180506"
+      },
+      "SQL Server 2017 Management Studio Extensions": {
+        "version": "14.0.3006.16",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180131"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft SQL Server Management Studio - 17.6": {
+        "version": "14.0.17230.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 Shell (Isolated)": {
+        "version": "14.0.23107.10",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft System CLR Types for SQL Server 2014": {
+        "version": "12.0.2402.11",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft ASP.NET Core 2.0.6 Runtime Package Store (x86)": {
+        "version": "2.0.12620.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Microsoft .NET Core 2.0.6 - Windows Server Hosting": {
+        "version": "2.0.40314.10011",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 Shell (Minimum) Resources": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 Language Support": {
+        "version": "14.0.23107.20",
+        "publisher": "Microsoft Corporation"
+      },
+      "Office 16 Click-to-Run Extensibility Component": {
+        "version": "16.0.9226.2114",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180501"
+      },
+      "Office 16 Click-to-Run Localization Component": {
+        "version": "16.0.9226.2114",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180501"
+      },
+      "Cisco AnyConnect Secure Mobility Client": {
+        "version": "4.5.00058",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20180131"
+      },
+      "Microsoft Visual Studio Services Hub": {
+        "version": "1.0.23107.00",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "OpenCover": {
+        "version": "4.6.519.0",
+        "publisher": "OpenCover",
+        "installdate": "20180418"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180131"
+      },
+      "Microsoft Build Tools Language Resources 14.0 (x86)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180303"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015": {
+        "version": "14.0.23829",
+        "publisher": "Microsoft Corporation"
+      },
+      "OpenOffice 4.1.5": {
+        "version": "4.15.9789",
+        "publisher": "Apache Software Foundation",
+        "installdate": "20180131"
+      },
+      "Python Launcher": {
+        "version": "3.6.6196.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft .NET Core Host - 2.0.6 (x86)": {
+        "version": "16.24.26212",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180426"
+      },
+      "Python 3.6.4 Add to Path (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft .NET Framework 4.5.2 Multi-Targeting Pack": {
+        "version": "4.5.51209",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215": {
+        "version": "14.0.24215",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180131"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 Language Support Finalizer": {
+        "version": "14.0.23107.20",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Python 3.6.4 Development Libraries (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005": {
+        "version": "12.0.21005.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "AMS": {
+        "version": "1.0.0",
+        "publisher": "AMS",
+        "installdate": "20180131"
+      },
+      "Browser for SQL Server 2017": {
+        "version": "14.0.1000.169",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft .NET Framework 4 Multi-Targeting Pack": {
+        "version": "4.0.30319",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Update for  (KB2504637)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Python 3.6.4 Utility Scripts (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft Build Tools 14.0 (x86)": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180303"
+      },
+      "Python 3.6.4 Test Suite (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Python 3.6.4 Core Interpreter (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft Build Tools 2015": {
+        "version": "14.0.23107.10",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)": {
+        "version": "4.5.50932",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Vagrant": {
+        "version": "2.0.4",
+        "publisher": "HashiCorp",
+        "installdate": "20180501"
+      },
+      "Python 3.6.4 Documentation (32-bit)": {
+        "version": "3.6.4150.0",
+        "publisher": "Python Software Foundation",
+        "installdate": "20180325"
+      },
+      "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215": {
+        "version": "14.0.24215.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual Studio 2015 XAML Designer - ENU": {
+        "version": "14.0.23107",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Chef Development Kit v0.16.28": {
+        "version": "0.16.28.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20180404"
+      },
+      "Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "22.20.16.4836",
+        "publisher": "Intel Corporation"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.8237",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Microsoft SQL Server Data-Tier Application Framework (x86)": {
+        "version": "14.0.3953.4",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Microsoft Visual Studio Tools for Applications 2015 Finalizer": {
+        "version": "14.0.23829",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20180425"
+      },
+      "Jenkins 2.107.2": {
+        "version": "0.2.107.2000",
+        "publisher": "Jenkins project",
+        "installdate": "20180418"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+      "Configure-IIS",
+      "Configure-IIS::default",
+      "Configure-IIS::iis-enable",
+      "Configure-IIS::download",
+      "Configure-IIS::unzip"
+    ],
+    "expanded_run_list": [
+      "Configure-IIS::default"
+    ],
+    "roles": [
+
+    ],
+    "cookbooks": {
+      "Configure-IIS": {
+        "version": "0.1.0"
+      },
+      "windows": {
+        "version": "4.2.2"
+      },
+      "iis": {
+        "version": "6.8.0"
+      }
+    }
+  },
+  "run_list": [
+    "recipe[Configure-IIS]"
+  ]
+}
