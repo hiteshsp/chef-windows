@@ -19,10 +19,5 @@ The config file, `.chef/knife.rb` is a repository specific configuration file fo
 
 <https://docs.chef.io/knife.html>
 
-# Next Steps
-
-Read the README file in each of the subdirectories for more information about what goes in those directories.
-
-# Chef-Windows
-
-This repo configures a website in IIS which is picks the artifacts from the nexus repository.
+# Chef Windows
+ - This repo configures a website in IIS which is picks the artifacts from the nexus repository.
