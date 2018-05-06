@@ -23,6 +23,6 @@ The config file, `.chef/knife.rb` is a repository specific configuration file fo
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
 
-#Chef-Windows
+# Chef-Windows
 
 This repo configures a website in IIS which is picks the artifacts from the nexus repository.
